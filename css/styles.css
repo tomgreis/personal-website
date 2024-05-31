@@ -1,0 +1,11 @@
+/* My very first own CSS stylesheet */
+
+* {
+  box-sizing: border-box;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
