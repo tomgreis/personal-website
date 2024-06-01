@@ -1,4 +1,4 @@
-/* My very first own CSS stylesheet */
+/* My very first CSS stylesheet */
 
 * {
   box-sizing: border-box;
@@ -17,5 +17,10 @@ a {
 .nav {
   display: flex;
   justify-content: flex-start;
-  gap: 10px;
+  gap: 20px;
+}
+
+.button {
+  font-family: monospace;
+  padding: 6px 12px;
 }
